@@ -1,1 +1,0 @@
-# Sat_solver_mpi
